@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- The repository moved to [feastorg/lmd18200](https://github.com/feastorg/lmd18200).
+  The old GitHub URL redirects, and the PlatformIO package name is unchanged.
+
 ## [0.1.5] - 2026-10-23
 
 Bench-checked on a gen2 Slice_DCMT board (Nano Every) against a DC ammeter:
@@ -87,7 +92,7 @@ meter, and 0.045 A at zero current (#6).
 - MIT License.
 - README with features overview, installation instructions, and datasheet reference.
 
-[0.1.3]: https://github.com/CameronBrooks11/lmd18200/compare/v0.1.2...v0.1.3
-[0.1.2]: https://github.com/CameronBrooks11/lmd18200/compare/v0.1.1...v0.1.2
-[0.1.1]: https://github.com/CameronBrooks11/lmd18200/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/CameronBrooks11/lmd18200/releases/tag/v0.1.0
+[0.1.3]: https://github.com/feastorg/lmd18200/compare/v0.1.2...v0.1.3
+[0.1.2]: https://github.com/feastorg/lmd18200/compare/v0.1.1...v0.1.2
+[0.1.1]: https://github.com/feastorg/lmd18200/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/feastorg/lmd18200/releases/tag/v0.1.0
